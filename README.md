@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Economics student 
+
+(GPG)[https://keyoxide.org/0A3D7C5B8C2499A8BEBCE72869D2E5C413569DA2]
+
 <!--
 **andyrufasto/andyrufasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
