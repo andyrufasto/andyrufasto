@@ -1,20 +1,15 @@
 ### Hi there 👋
 
 Economics student 
+contact:
 
 [GPG](https://keyoxide.org/0A3D7C5B8C2499A8BEBCE72869D2E5C413569DA2)
 
-<!--
-**andyrufasto/andyrufasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stats:
 
-Here are some ideas to get you started:
+[![Andy Rufasto's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyrufasto)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyrufasto&hide=SCSS,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
