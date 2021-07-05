@@ -1,6 +1,6 @@
 ### About Me
 :books: Economics Student. \
-:penguin: GNU/Linux . \
+:penguin: GNU/Linux. \
 :heart: FOSS entusiast and contributor. \
 :seedling: Learning Data Science.
 
